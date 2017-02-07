@@ -2,7 +2,7 @@
   "name": "perfect-scrollbar",
   "version": "0.6.16",
   "description": "This is the [Bower](https://bower.io/) package of perfect-scrollbar.",
-  "main": "js/perfect-scrollbar.jquery.js",
+  "main": "js/perfect-scrollbar.jquery.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sowirepo/perfect-scrollbar-bower.git"
